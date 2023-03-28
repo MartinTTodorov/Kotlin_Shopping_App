@@ -1,0 +1,16 @@
+Hello my name is Georgi Zhizgov and my colleague and I are conducting interviews about the carnivore diet related food application so we would like to ask you a couple of questions. Can you introduce yourself?
+- Good morning my name is Stoil Yonchev, I'm student at Fontys University of applied sciences, I'm 20 years old.
+Can you tell me about your experience following the carnivore diet? How long have you been following it, and what motivated you to start?
+- Well I used to eat a lot of vegetables and meat all the time but the When I saw from the news that the vegetables have a lot of chemicals and not healthy stuff in it I decided to go on a carnivore diet. I try it 1st time for a short period and after that I decided to that to be my day life.
+OK nice and how do you typically go about finding suitable products that's better for the carnivore that what challenges have you faced in this process?
+- Well usually when I was in Bulgaria my family produce their own meat and eggs so for me it was really easy but comparing here in the Netherlands in the grocery shops most of the meat is filled with hormones and unhealthy stuff so I would say that it's not that easy to find.
+Have you have you used any existing apps are resources to help you find so suitable products for the carnivores and if so what do you like and dislike about them?
+- Well for now I didn't find any useful application and I'll be glad to use one which can suggest me what meals I can eat or watch food and for instance I would like some recipes about this diet.
+OK and can you describe a time when you struggled to find the suitable products for the carnivore that what could have made that experience easier or more successful?
+- Well the difficult part about it is for when I change my environment I came here in the Netherlands the hard part was to find sustainable products and that respond to my lifestyle and diet and what can improve it is an application that suggests for instance do grocery shops or products even some good recipes.
+Nice, that actually automatically answers our next questions about the features you would like to see in the such an app. How important is it for you to have access to detailed nutritional information on when selecting products for your diet.
+- Well as you know that the carnivore diet limits my choices of what I can eat so probably's gonna be a crucial part to see the nutritions so I can get enough vitamins For my body.
+OK and have you ever had any negative experience with products marked as suitable for the carnivore diet and if so can you tell me about it.
+- I think everybody have some bad experiences about that diet for instance the grocery shops the most of the food and the meat is filled with hormones and chemicals and they are not normal for your body.
+That was very helpful from you because now our main purpose is to create a carnivore dad friendly application that helps people find what they are looking for in this case different types of meats even if it's red ,white ,steaks doesn't matter so they can find it they're find it,  ordered it and there's no need to Wander around the shops looking for what you need.
+- That's wonderful I'm glad that I'm helpful. Then I'm looking forward for your application.

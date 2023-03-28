@@ -1,0 +1,22 @@
+Hello my name is Georgi Zhizgov and my colleague and I are conducting a research for our shopping application based on different peoples dietary restrictions.
+Can you introduce yourself? 
+- Hello, my name is Radolina Petrova, I am 20-years old and I am currently studying at Fontys University as a Software Engineering student.
+Do you have any dietary restrictions?
+- Yes, I am a vegetarian.
+And what motivated you to become one?
+- Three years ago I did a research on vegetarians and I find more about how the meat is being produced so I decided to stop eating.
+How do you currently find suitable food products to meet your dietary needs?
+- It is kind of hard to find suitable products but I usually just go to supermarkets and they sometimes have separate sections for vegetarian products.
+OKay, that's nice. What are the biggest challenges you face when trying to find suitable food products ?
+- Well to find something with enough proteins maybe because since I don't eat meat I have to find another source for all the proteins I usually would get from meat.
+I understand. And what features in an app that helps you find suitable products.
+- Well, I would like to see maybe feature that allows me to Look through the supermarkets products and see like what's available at a which supermarket because most of the time when
+ I go for a certain product I don't find it and it would be nice to see like which product are available at which store also maybe see Contents of the food and some more details about
+ watching these products.
+How how frequently do you see yourself using an app this.
+- Several times a week, because I go shopping like almost every day I don't buy stuff for the whole week.
+What types of food products are most important to you when you're looking for suitable food options?
+- Well mainly Vegetarian meats and some replacement products of meat.
+OK and how do you think an app like this could make your life easier as a vegetarian.
+- Well I think it would really help me when trying to find some products I'm looking for.
+Thank you very much for your help, that was really helpful. Hope to see you soon!
