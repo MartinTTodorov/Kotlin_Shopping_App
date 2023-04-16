@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CarnivoreLifestyle</string>
+
+    <string-array name="meat_categories">
+        <item>Beef</item>
+        <item>Chicken</item>
+        <item>Pork</item>
+    </string-array>
+
 </resources>

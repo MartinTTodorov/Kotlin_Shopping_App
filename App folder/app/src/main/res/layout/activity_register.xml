@@ -67,28 +67,29 @@
         android:id="@+id/lastName"
         android:layout_width="239dp"
         android:layout_height="45dp"
-        android:layout_marginTop="226dp"
+        android:layout_marginTop="252dp"
         android:background="#fefefe"
         android:ems="10"
         android:inputType="textPersonName"
         android:shape="rectangle"
         android:text="Last Name"
         android:textColor="#8C8E89"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent"/>
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button"
         android:layout_width="237dp"
         android:layout_height="41dp"
-        android:layout_marginTop="20dp"
+        android:layout_marginTop="256dp"
         android:background="#913636"
         android:text="Register"
         android:textColor="@color/white"
-        app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/lastName"/>
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lastName" />
 
     <ImageView
         android:id="@+id/logo"
@@ -111,7 +112,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/logo"
-        app:layout_constraintVertical_bias="0.277"
+        app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/steak_draw" />
 
 
